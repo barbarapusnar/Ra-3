@@ -9,7 +9,9 @@ public class SprehodPoHisi {
     static Lokacija trenutnaLokacija;
     public static void main(String[] args) {
         SprehodPoHisi s=new SprehodPoHisi();
-        s.ustvariHišo();       
+        s.ustvariHišo();   
+        trenutnaLokacija=s.dnevnaSoba;
+        System.out.println(trenutnaLokacija.getOpis());    
     }
    
     public void ustvariHišo()
