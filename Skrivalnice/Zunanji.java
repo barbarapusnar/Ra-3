@@ -1,6 +1,3 @@
-
-
-
 public class Zunanji extends Lokacija{
     boolean jeVroče;
     public Zunanji(String i,int n,boolean v)

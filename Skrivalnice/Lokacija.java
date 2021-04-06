@@ -1,6 +1,4 @@
 
-
-
 public class Lokacija {
     protected String ime;
     protected Lokacija[] izhodi;

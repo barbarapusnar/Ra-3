@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class SprehodPoHisi {
     SobaZVrati dnevnaSoba;
@@ -9,7 +8,8 @@ public class SprehodPoHisi {
     Zunanji vrt;
     static Lokacija trenutnaLokacija;
     public static void main(String[] args) {
-                
+        SprehodPoHisi s=new SprehodPoHisi();
+        s.ustvariHišo();       
     }
    
     public void ustvariHišo()

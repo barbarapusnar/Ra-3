@@ -1,5 +1,3 @@
-
-
 public class SobaZVrati extends Soba implements IZunanjaVrata{
     String opVrat;
     Lokacija lv;

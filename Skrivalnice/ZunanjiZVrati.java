@@ -1,6 +1,3 @@
-
-
-
 public class ZunanjiZVrati extends Zunanji implements IZunanjaVrata {
     String opVrat;
     Lokacija lv;
